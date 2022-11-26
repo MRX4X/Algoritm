@@ -57,15 +57,3 @@ for i in range(1, len(n)):
         d.append(n[i-1])
         count += 1
 print(count)
-
-
-
-
-
-
-
-
-
-
-
-
